@@ -2,7 +2,7 @@
 export default function Footer() {
   return (
     <>
-      <div className="footer flex flex-col justify-center items-center py-8"> {/* Added py-8 for padding */}
+      <div className="footer flex flex-col justify-center items-center py-8"> 
         <div className="iconsDiv flex flex-wrap justify-center gap-6 mb-4"> 
       
           <i className="bi bi-facebook text-2xl cursor-pointer"></i>
